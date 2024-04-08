@@ -1,4 +1,3 @@
-To create a README file explaining how to read the given file "layoffs.csv", you can follow these steps:
 
 ---
 
